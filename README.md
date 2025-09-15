@@ -9,10 +9,10 @@ This project fine-tunes a pre-trained GPT-2 model to generate coherent paragraph
 # Install dependencies
   It's recommended to use a virtual environment.
   
-    ```
+  
     
     pip install -r requirements.txt
-    ```
+  
 # Usage
 
 1.  **Prepare Data:**
