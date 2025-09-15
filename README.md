@@ -37,11 +37,8 @@ This project fine-tunes a pre-trained GPT-2 model to generate coherent paragraph
 
 --- Generated Paragraph ---
 
-
-    The mission of this program will be the first of its kind to explore the solar system, and its success is the fulfillment of NASA's mission to 
-reach the stars in a matter of months and millions of years," said David Kelly, NASA Chief Scientist. "It's the culmination of over 30 years of 
-research and development, leading the search for new and promising worlds."
- (NASA)
+The mission of this program will be the first of its kind to explore the solar system, and its success is the fulfillment of NASA's mission to reach the stars in a matter of months and   millions of years," said David Kelly, NASA Chief Scientist. "It's the culmination of over 30 years of research and development, leading the search for new and promising worlds."
+(NASA)
 
 
 
