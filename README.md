@@ -9,7 +9,7 @@ This project fine-tunes a pre-trained GPT-2 model to generate coherent paragraph
 # Install dependencies
   It's recommended to use a virtual environment.
   
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 # Usage
@@ -20,7 +20,7 @@ This project fine-tunes a pre-trained GPT-2 model to generate coherent paragraph
 2.  **Train the Model:**
     Run the training script. This will take a while and requires a GPU.
     
-    ```bash
+    ```
     python train.py
     ```
     This will create a `fine_tuned_gpt2` directory containing your new model.
@@ -29,7 +29,7 @@ This project fine-tunes a pre-trained GPT-2 model to generate coherent paragraph
     Run the generation script with your desired starting prompt in quotes.
     
     ```bash
-    python generate.py "The future of Mars colonization is"
+    python generate.py "The space exploration"
     ```
 
 # Example Output
